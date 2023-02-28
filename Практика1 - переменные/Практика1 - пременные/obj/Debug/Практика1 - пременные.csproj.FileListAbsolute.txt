@@ -1,0 +1,8 @@
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\bin\Debug\Практика1 - пременные.exe.config
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\bin\Debug\Практика1 - пременные.exe
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\bin\Debug\Практика1 - пременные.pdb
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\obj\Debug\Практика1 - пременные.csproj.AssemblyReference.cache
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\obj\Debug\Практика1 - пременные.csproj.SuggestedBindingRedirects.cache
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\obj\Debug\Практика1 - пременные.csproj.CoreCompileInputs.cache
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\obj\Debug\Практика1 - пременные.exe
+C:\Users\riyug\source\repos\Практика1 - пременные\Практика1 - пременные\obj\Debug\Практика1 - пременные.pdb
